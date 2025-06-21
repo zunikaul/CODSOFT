@@ -6,9 +6,8 @@ This repository contains all the tasks I will complete during my internship with
 
  Task 1: Chatbot with Rule-Based Responses
  Task 2: Tic-Tac-Toe Game with AI
- Task 3: Image Captioning
- Task 4: Recommendation System
- Task 5: Face detection
+ Task 3: Recommendation System
+ Task 4: Face detection
 
 
 
